@@ -5,7 +5,7 @@ Grass is a simple grep clone made in Rust programming language.
 Just run the command cargo build in the src folder.
 
 # how to use
-call the exe, passing a pattern to be looked inside a file
+call the exe, passing a pattern to be looked inside a file.
 
 # example:
 
